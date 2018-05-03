@@ -1,0 +1,216 @@
+190 ['B AD1010', 'ACCT2113', 'ECON2843', 'MIS2113'] 0.9 Sophomore 0.17 Finance
+74 ['UCOL1002', 'B AD1000', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.45 Business-Undecided
+70 ['MATH1743', 'B AD1000', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.4 Business-Undecided
+66 ['UCOL1002', 'B AD1000', 'ECON1113', 'B AD1001'] 0.97 Freshman 0.41 Business-Undecided
+65 ['ENGL1113', 'UCOL1002', 'B AD1000', 'MATH1643'] 0.98 Freshman 0.46 Business-Undecided
+65 ['B AD1000', 'MATH1643', 'ECON1113', 'COMM1113'] 0.97 Freshman 0.52 Business-Undecided
+64 ['ENGL1113', 'UCOL1002', 'B AD1000', 'ECON1113'] 0.98 Freshman 0.38 Business-Undecided
+60 ['ENGL1113', 'B AD1000', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.45 Business-Undecided
+58 ['ENGL1113', 'UCOL1002', 'B AD1000', 'B AD1001'] 0.95 Freshman 0.45 Business-Undecided
+57 ['UCOL1002', 'MATH1743', 'B AD1000', 'ECON1113'] 0.96 Freshman 0.46 Business-Undecided
+57 ['ENGL1113', 'MATH1743', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.49 Business-Undecided
+53 ['ENGL1113', 'B AD1000', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.45 Business-Undecided
+52 ['UCOL1002', 'B AD1000', 'MATH1643', 'B AD1001'] 0.98 Freshman 0.44 Business-Undecided
+51 ['UCOL1002', 'B AD1000', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.47 Business-Undecided
+50 ['B AD1000', 'MATH1643', 'ECON1113', 'B AD1001'] 0.86 Freshman 0.44 Business-Undecided
+48 ['UCOL1002', 'B AD1000', 'MATH1643', 'COMM1113'] 0.98 Freshman 0.46 Business-Undecided
+48 ['UCOL1002', 'B AD1000', 'COMM1113', 'B AD1001'] 0.98 Freshman 0.48 Business-Undecided
+48 ['MATH1743', 'B AD1000', 'ECON1113', 'B AD1001'] 0.88 Freshman 0.4 Business-Undecided
+48 ['ENGL1113', 'B AD1000', 'MATH1643', 'COMM1113'] 0.96 Freshman 0.54 Business-Undecided
+47 ['ENGL1113', 'UCOL1002', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.47 Business-Undecided
+46 ['B AD1000', 'ECON1113', 'COMM1113', 'B AD1001'] 0.89 Freshman 0.48 Business-Undecided
+43 ['ENGL1113', 'UCOL1002', 'PSY1113', 'MATH1643'] 1.0 Freshman 0.26 Psychology
+42 ['ENGL1113', 'UCOL1002', 'MATH1743', 'B AD1000'] 0.98 Freshman 0.38 Business-Undecided
+42 ['ENGL1113', 'UCOL1002', 'B AD1000', 'COMM1113'] 0.98 Freshman 0.67 Business-Undecided
+42 ['ENGL1113', 'B AD1000', 'ECON1113', 'B AD1001'] 0.95 Freshman 0.48 Business-Undecided
+41 ['B AD1010', 'ACCT2113', 'B AD1001', 'ECON2843'] 0.66 Sophomore 0.24 Finance
+39 ['UCOL1002', 'MATH1643', 'ECON1113', 'B AD1001'] 1.0 Freshman 0.46 Business-Undecided
+38 ['UCOL1002', 'MATH1743', 'B AD1000', 'B AD1001'] 0.95 Freshman 0.45 Business-Undecided
+38 ['MATH1743', 'B AD1010', 'ACCT2113', 'MIS2113'] 0.79 Sophomore 0.21 Finance
+38 ['ENGL1113', 'UCOL1002', 'ECON1113', 'B AD1001'] 0.97 Freshman 0.47 Business-Undecided
+35 ['UCOL1002', 'SOC1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.54 Business-Undecided
+35 ['UCOL1002', 'MATH1643', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.57 Business-Undecided
+35 ['ENGL1113', 'UCOL1002', 'MATH1643', 'B AD1001'] 0.97 Freshman 0.6 Business-Undecided
+35 ['ENGL1113', 'MATH1743', 'B AD1000', 'COMM1113'] 0.97 Freshman 0.54 Business-Undecided
+35 ['B AD1000', 'MATH1643', 'COMM1113', 'B AD1001'] 0.8 Freshman 0.43 Business-Undecided
+34 ['UCOL1002', 'MATH1743', 'B AD1000', 'COMM1113'] 1.0 Freshman 0.47 Business-Undecided
+34 ['ENGL1113', 'UCOL1002', 'SOC1113', 'MATH1643'] 1.0 Freshman 0.32 Business-Undecided
+34 ['B AD1010', 'ACCT2113', 'B AD1001', 'MIS2113'] 0.82 Sophomore 0.21 Finance
+32 ['UCOL1002', 'ECON1113', 'COMM1113', 'B AD1001'] 1.0 Freshman 0.47 Business-Undecided
+32 ['ENGL1113', 'UCOL1002', 'SOC1113', 'B AD1000'] 0.97 Freshman 0.44 Business-Undecided
+32 ['ENGL1113', 'UCOL1002', 'MATH1743', 'ECON1113'] 1.0 Freshman 0.41 Business-Undecided
+32 ['ENGL1113', 'MATH1643', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.5 Business-Undecided
+32 ['ENGL1113', 'B AD1000', 'MATH1643', 'B AD1001'] 0.97 Freshman 0.5 Business-Undecided
+31 ['UCOL1002', 'MATH1743', 'ECON1113', 'B AD1001'] 0.97 Freshman 0.48 Business-Undecided
+31 ['MATH1643', 'ECON1113', 'COMM1113', 'B AD1001'] 0.77 Freshman 0.42 Business-Undecided
+30 ['MATH1743', 'B AD1010', 'ACCT2113', 'ECON1123'] 0.53 Sophomore 0.2 Finance
+29 ['MATH1743', 'B AD1010', 'ACCT2113', 'B AD1001'] 0.55 Sophomore 0.28 Finance
+29 ['MATH1743', 'B AD1000', 'COMM1113', 'B AD1001'] 0.97 Freshman 0.52 Business-Undecided
+29 ['MATH1743', 'B AD1000', 'B AD1001', 'ECON1123'] 0.79 Freshman 0.38 Business-Undecided
+29 ['ENGL1113', 'UCOL1002', 'MATH1643', 'COMM1113'] 0.97 Freshman 0.69 Business-Undecided
+29 ['ENGL1113', 'MATH1743', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.48 Business-Undecided
+28 ['UCOL1002', 'MATH1743', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.46 Business-Undecided
+27 ['P SC1113', 'B AD1010', 'ACCT2113', 'MIS2113'] 0.89 Sophomore 0.19 Accounting
+27 ['ENGL1113', 'B AD1000', 'COMM1113', 'B AD1001'] 0.96 Freshman 0.56 Business-Undecided
+27 ['B AD1010', 'ACCT2113', 'HES2823', 'MIS2113'] 0.89 Sophomore 0.3 Marketing
+27 ['B AD1010', 'ACCT2113', 'ECON1123', 'MIS2113'] 0.93 Sophomore 0.22 Finance
+26 ['UCOL1002', 'SOC1113', 'B AD1000', 'B AD1001'] 0.96 Freshman 0.5 Business-Undecided
+26 ['UCOL1002', 'MATH1643', 'COMM1113', 'B AD1001'] 0.96 Freshman 0.38 Business-Undecided
+26 ['ENGL1113', 'UCOL1002', 'PSY1113', 'B AD1000'] 1.0 Freshman 0.38 Business-Undecided
+26 ['B AD1010', 'ACCT2113', 'B AD1001', 'ECON1123'] 0.69 Sophomore 0.23 Finance
+25 ['UCOL1002', 'SOC1113', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.36 Business-Undecided
+25 ['MATH1743', 'B AD1010', 'ACCT2113', 'ECON2843'] 0.52 Freshman 0.24 Finance
+25 ['ENGL1113', 'UCOL1002', 'PSY1113', 'BIOL1114'] 1.0 Freshman 0.44 Pre-Nursing Studies
+25 ['ENGL1113', 'UCOL1002', 'COMM1113', 'B AD1001'] 0.96 Freshman 0.56 Business-Undecided
+25 ['ENGL1113', 'MATH1743', 'B AD1000', 'B AD1001'] 0.96 Freshman 0.52 Business-Undecided
+24 ['UCOL1002', 'B AD1000', 'MATH1643', 'ECON1123'] 0.96 Freshman 0.46 Business-Undecided
+23 ['SOC1113', 'B AD1000', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.52 Business-Undecided
+23 ['MATH1743', 'ACCT2113', 'B AD1001', 'ECON1123'] 0.48 Sophomore 0.26 Finance
+23 ['ENGL1113', 'UCOL1002', 'MATH1743', 'B AD1001'] 0.96 Freshman 0.39 Business-Undecided
+23 ['ENGL1113', 'UCOL1002', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.61 Business-Undecided
+23 ['B AD1010', 'ACCT2113', 'HES2823', 'ECON2843'] 0.74 Sophomore 0.3 Marketing
+22 ['UCOL1002', 'SOC1113', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.55 Business-Undecided
+22 ['MATH1743', 'ECON1113', 'COMM1113', 'B AD1001'] 0.91 Freshman 0.55 Business-Undecided
+22 ['MATH1743', 'B AD1010', 'B AD1001', 'ECON1123'] 0.68 Freshman 0.27 Finance
+22 ['ENGL1113', 'CHEM1315', 'SOC1113', 'ENGR1411'] 1.0 Freshman 0.32 Electrical Engineering
+21 ['SOC1113', 'MATH1743', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.33 Business-Undecided
+21 ['ENGL1113', 'UCOL1002', 'CHEM1315', 'ENGR1411'] 1.0 Freshman 0.24 Biomedical Engineering
+21 ['ENGL1113', 'SOC1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.52 Business-Undecided
+21 ['ENGL1113', 'PSY1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.33 Business-Undecided
+21 ['ENGL1113', 'MATH1743', 'ECON1113', 'B AD1001'] 1.0 Freshman 0.48 Business-Undecided
+21 ['ENGL1113', 'MATH1743', 'B AD1000', 'ECON1123'] 0.9 Freshman 0.33 Business-Undecided
+21 ['ENGL1113', 'MATH1643', 'ECON1113', 'B AD1001'] 1.0 Freshman 0.62 Business-Undecided
+21 ['B AD1000', 'MATH1643', 'B AD1001', 'ECON1123'] 0.67 Freshman 0.48 Business-Undecided
+21 ['ACCT2113', 'B AD1001', 'ECON2843', 'MIS2113'] 0.71 Sophomore 0.24 Accounting
+20 ['UCOL1002', 'MATH1743', 'COMM1113', 'B AD1001'] 1.0 Freshman 0.55 Business-Undecided
+20 ['MATH1743', 'B AD1000', 'ECON1113', 'ENGL1213'] 1.0 Freshman 0.25 Finance
+20 ['ENGL1113', 'UCOL1002', 'B AD1000', 'ECON1123'] 0.9 Freshman 0.3 Business-Undecided
+19 ['PSY1113', 'B AD1000', 'MATH1643', 'ECON1113'] 0.95 Freshman 0.32 Finance
+19 ['MATH1743', 'B AD1000', 'COMM1113', 'ECON1123'] 0.89 Freshman 0.42 Business-Undecided
+19 ['B AD1000', 'MATH1643', 'ECON1113', 'HIST1493'] 1.0 Freshman 0.68 Business-Undecided
+19 ['B AD1000', 'MATH1643', 'COMM1113', 'ECON1123'] 0.79 Freshman 0.32 Business-Undecided
+18 ['UCOL1002', 'PSY1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.44 Business-Undecided
+18 ['UCOL1002', 'MATH1743', 'B AD1000', 'ECON1123'] 0.94 Freshman 0.28 Business-Undecided
+18 ['SOC1113', 'MATH1743', 'B AD1000', 'B AD1001'] 0.89 Freshman 0.22 Accounting
+18 ['SOC1113', 'B AD1000', 'MATH1643', 'B AD1001'] 1.0 Freshman 0.61 Business-Undecided
+18 ['P SC1113', 'B AD1010', 'ACCT2113', 'ECON2843'] 0.72 Sophomore 0.28 Finance
+18 ['ENGL1113', 'UCOL1002', 'SOC1113', 'B AD1001'] 0.94 Freshman 0.5 Business-Undecided
+18 ['ENGL1113', 'B AD1000', 'MATH1643', 'ECON1123'] 0.94 Freshman 0.28 Business-Undecided
+18 ['B AD1010', 'HES2823', 'ECON2843', 'MIS2113'] 0.94 Sophomore 0.28 Marketing
+17 ['UCOL1002', 'B AD1000', 'B AD1001', 'ECON1123'] 0.88 Freshman 0.47 Business-Undecided
+17 ['SOC1113', 'B AD1000', 'ECON1113', 'B AD1001'] 0.94 Freshman 0.47 Business-Undecided
+17 ['PSY1113', 'MATH1743', 'B AD1000', 'ECON1113'] 0.88 Freshman 0.53 Finance
+17 ['ENGL1113', 'B AD1000', 'MATH1643', 'HIST1493'] 1.0 Freshman 0.59 Business-Undecided
+17 ['B AD1010', 'B AD1001', 'ECON2843', 'MIS2113'] 0.88 Sophomore 0.24 Accounting
+17 ['B AD1000', 'MATH1643', 'ECON1113', 'MUNM1113'] 0.88 Freshman 0.41 Business-Undecided
+17 ['B AD1000', 'MATH1643', 'COMM1113', 'HIST1493'] 1.0 Freshman 0.59 Business-Undecided
+17 ['B AD1000', 'COMM1113', 'B AD1001', 'ECON1123'] 0.53 Freshman 0.35 Accounting
+16 ['UCOL1002', 'SOC1113', 'MATH1643', 'B AD1001'] 1.0 Freshman 0.5 Business-Undecided
+16 ['UCOL1002', 'SOC1113', 'B AD1000', 'COMM1113'] 1.0 Freshman 0.5 Business-Undecided
+16 ['PSY1113', 'MATH1743', 'B AD1000', 'COMM1113'] 0.94 Freshman 0.56 Business-Undecided
+16 ['ENGL1113', 'UCOL1002', 'P SC1113', 'PSY1113'] 1.0 Freshman 0.12 Pre-Dental Hygiene
+16 ['ENGL1113', 'UCOL1002', 'MATH1743', 'COMM1113'] 1.0 Freshman 0.62 Business-Undecided
+16 ['ENGL1113', 'UCOL1002', 'BIOL1114', 'MATH1643'] 1.0 Freshman 0.25 Biology
+16 ['ENGL1113', 'UCOL1002', 'B AD1000', 'HIST1493'] 0.94 Freshman 0.31 Business-Undecided
+16 ['B AD1000', 'ECON1113', 'COMM1113', 'HIST1493'] 0.94 Freshman 0.62 Business-Undecided
+15 ['SOC1113', 'MATH1743', 'B AD1000', 'ECON1123'] 0.93 Freshman 0.4 Business-Undecided
+15 ['MATH1743', 'B AD1010', 'ECON2843', 'MIS2113'] 0.87 Sophomore 0.27 Finance
+15 ['MATH1743', 'B AD1000', 'MUNM1113', 'ECON1123'] 1.0 Freshman 0.33 Finance
+15 ['ENGL1113', 'UCOL1002', 'SOC1113', 'ECON1113'] 1.0 Freshman 0.27 Business-Undecided
+15 ['ENGL1113', 'UCOL1002', 'P SC1113', 'MATH1643'] 1.0 Freshman 0.2 Business-Undecided
+15 ['ENGL1113', 'SOC1113', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.4 Business-Undecided
+15 ['ENGL1113', 'ECON1113', 'COMM1113', 'B AD1001'] 1.0 Freshman 0.53 Business-Undecided
+15 ['ENGL1113', 'B AD1000', 'COMM1113', 'ECON1123'] 0.87 Freshman 0.53 Business-Undecided
+15 ['ACCT2113', 'HES2823', 'ECON2843', 'MIS2113'] 0.93 Sophomore 0.33 Marketing
+14 ['UCOL1002', 'SOC1113', 'MATH1743', 'B AD1000'] 0.93 Freshman 0.29 Business-Undecided
+14 ['UCOL1002', 'PSY1113', 'BIOL1114', 'MATH1643'] 1.0 Freshman 0.21 Pre-Nursing Studies
+14 ['UCOL1002', 'B AD1000', 'MATH1643', 'HIST1493'] 1.0 Freshman 0.5 Business-Undecided
+14 ['SOC1113', 'B AD1010', 'ACCT2113', 'MIS2113'] 1.0 Sophomore 0.36 Business-Undecided
+14 ['SOC1113', 'B AD1000', 'MATH1643', 'COMM1113'] 1.0 Freshman 0.71 Business-Undecided
+14 ['SOC1113', 'B AD1000', 'COMM1113', 'B AD1001'] 0.93 Freshman 0.5 Business-Undecided
+14 ['PSY1113', 'B AD1000', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.43 Finance
+14 ['P SC1113', 'MATH1743', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.43 Business-Undecided
+14 ['MATH1743', 'B AD1000', 'ECON1113', 'HIST1493'] 1.0 Freshman 0.36 Business-Undecided
+14 ['ENGL1113', 'SOC1113', 'B AD1000', 'B AD1001'] 0.93 Freshman 0.5 Business-Undecided
+14 ['ENGL1113', 'PSY1113', 'BIOL1114', 'MATH1643'] 1.0 Freshman 0.29 Pre-Nursing Studies
+14 ['ENGL1113', 'PSY1113', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.29 Business-Undecided
+14 ['ENGL1113', 'B AD1000', 'ECON1113', 'HIST1493'] 0.93 Freshman 0.5 Business-Undecided
+14 ['ENGL1113', 'B AD1000', 'COMM1113', 'HIST1493'] 1.0 Freshman 0.64 Business-Undecided
+14 ['B AD1010', 'COMM1113', 'ACCT2113', 'MIS2113'] 0.79 Sophomore 0.21 Academic Affairs-Exploratory
+14 ['B AD1000', 'MATH1643', 'ECON1113', 'ENGL1213'] 1.0 Freshman 0.29 Marketing
+13 ['UCOL1002', 'B AD1000', 'COMM1113', 'ECON1123'] 0.92 Freshman 0.31 Business-Undecided
+13 ['P SC1113', 'B AD1010', 'ECON2843', 'MIS2113'] 0.92 Sophomore 0.31 Finance
+13 ['P SC1113', 'B AD1000', 'MATH1643', 'ECON1113'] 0.92 Freshman 0.46 Business-Undecided
+13 ['MATH1743', 'B AD1000', 'ECON1113', 'MUNM1113'] 1.0 Freshman 0.31 Business-Undecided
+13 ['ENGL1113', 'UCOL1002', 'P SC1113', 'B AD1000'] 1.0 Freshman 0.38 Business-Undecided
+13 ['B AD1010', 'ACCT2113', 'ECON2843', 'ECON1123'] 0.54 Freshman 0.23 Finance
+12 ['UCOL1002', 'SOC1113', 'COMM1113', 'B AD1001'] 1.0 Freshman 0.5 Business-Undecided
+12 ['UCOL1002', 'PSY1113', 'B AD1000', 'ECON1113'] 1.0 Freshman 0.33 Finance
+12 ['UCOL1002', 'MATH1643', 'ECON1113', 'MUNM1113'] 1.0 Freshman 0.58 Business-Undecided
+12 ['UCOL1002', 'MATH1643', 'B AD1001', 'ECON1123'] 0.92 Freshman 0.58 Business-Undecided
+12 ['P SC1113', 'B AD1000', 'ECON1113', 'COMM1113'] 0.92 Freshman 0.33 Business-Undecided
+12 ['P SC1113', 'ACCT2113', 'ECON2843', 'MIS2113'] 0.92 Sophomore 0.25 Finance
+12 ['MATH1743', 'COMM1113', 'B AD1001', 'ECON1123'] 0.75 Freshman 0.42 Accounting
+12 ['MATH1743', 'B AD1000', 'COMM1113', 'MUNM1113'] 1.0 Freshman 0.25 Accounting
+12 ['MATH1743', 'ACCT2113', 'ECON2843', 'MIS2113'] 0.83 Sophomore 0.33 Finance
+12 ['ENGL1113', 'UCOL1002', 'PSY1113', 'MATH1743'] 1.0 Freshman 0.42 Biology
+12 ['ENGL1113', 'UCOL1002', 'MATH1643', 'HIST1493'] 1.0 Freshman 0.25 Biology
+12 ['ENGL1113', 'PSY1113', 'B AD1000', 'COMM1113'] 1.0 Freshman 0.75 Business-Undecided
+12 ['ENGL1113', 'P SC1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.5 Business-Undecided
+12 ['ENGL1113', 'MATH1643', 'COMM1113', 'B AD1001'] 0.92 Freshman 0.42 Business-Undecided
+12 ['ENGL1113', 'CHEM1315', 'HIST1493', 'ENGR1411'] 0.92 Freshman 0.25 Aerospace Engineering
+12 ['ENGL1113', 'B AD1000', 'B AD1001', 'ECON1123'] 0.83 Freshman 0.42 Business-Undecided
+12 ['COMM1113', 'ACCT2113', 'ECON2843', 'MIS2113'] 0.83 Sophomore 0.25 Academic Affairs-Exploratory
+12 ['B AD1010', 'MUNM1113', 'ACCT2113', 'ECON2843'] 0.83 Sophomore 0.25 Academic Affairs-Exploratory
+12 ['B AD1010', 'COMM1113', 'ACCT2113', 'ECON2843'] 0.5 Sophomore 0.25 Academic Affairs-Exploratory
+12 ['B AD1000', 'ECON1113', 'COMM1113', 'MUNM1113'] 1.0 Freshman 0.33 Business-Undecided
+12 ['ACCT2113', 'B AD1001', 'ECON2843', 'ECON1123'] 0.42 Sophomore 0.33 Accounting
+11 ['UCOL1002', 'SOC1113', 'B AD1000', 'ECON1123'] 0.91 Freshman 0.55 Business-Undecided
+11 ['UCOL1002', 'PSY1113', 'B AD1000', 'COMM1113'] 1.0 Freshman 0.55 Business-Undecided
+11 ['UCOL1002', 'P SC1113', 'B AD1000', 'MATH1643'] 1.0 Freshman 0.27 Business-Undecided
+11 ['SOC1113', 'B AD1010', 'ACCT2113', 'ECON2843'] 0.91 Sophomore 0.27 Business-Undecided
+11 ['SOC1113', 'B AD1000', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.55 Business-Undecided
+11 ['SOC1113', 'B AD1000', 'B AD1001', 'ECON1123'] 0.91 Freshman 0.27 Accounting
+11 ['P SC1113', 'B AD1010', 'ACCT2113', 'B AD1001'] 0.55 Sophomore 0.18 Accounting
+11 ['MATH1743', 'B AD1010', 'ECON1123', 'MIS2113'] 0.91 Sophomore 0.36 Management
+11 ['MATH1743', 'ACCT2113', 'ECON1123', 'MIS2113'] 0.82 Sophomore 0.27 Finance
+11 ['MATH1743', 'ACCT2113', 'B AD1001', 'ECON2843'] 0.55 Freshman 0.36 Business-Undecided
+11 ['MATH1643', 'ECON1113', 'COMM1113', 'HIST1493'] 1.0 Freshman 0.73 Business-Undecided
+11 ['ENGL1113', 'UCOL1002', 'SOC1113', 'MATH1743'] 0.91 Freshman 0.27 Biology
+11 ['ENGL1113', 'UCOL1002', 'MATH1643', 'ECON1123'] 0.91 Freshman 0.45 Business-Undecided
+11 ['ENGL1113', 'SOC1113', 'MATH1743', 'B AD1000'] 0.91 Freshman 0.45 Business-Undecided
+11 ['ENGL1113', 'PSY1113', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.27 Finance
+11 ['ENGL1113', 'PSY1113', 'BIOL1114', 'MATH1743'] 1.0 Freshman 0.27 Biology
+11 ['ENGL1113', 'MATH1743', 'COMM1113', 'B AD1001'] 1.0 Freshman 0.73 Business-Undecided
+11 ['B AD1010', 'MUNM1113', 'ACCT2113', 'MIS2113'] 1.0 Sophomore 0.18 Academic Affairs-Exploratory
+11 ['B AD1000', 'ECON1113', 'MUNM1113', 'B AD1001'] 0.64 Freshman 0.36 Business-Undecided
+11 ['ACCT2113', 'B AD1001', 'ECON1123', 'MIS2113'] 0.55 Sophomore 0.27 Finance
+10 ['UCOL1002', 'SOC1113', 'ECON1113', 'B AD1001'] 1.0 Freshman 0.4 Business-Undecided
+10 ['UCOL1002', 'PSY1113', 'B AD1000', 'B AD1001'] 1.0 Freshman 0.3 Marketing
+10 ['UCOL1002', 'B AD1000', 'MATH1643', 'MUNM1113'] 1.0 Freshman 0.4 Business-Undecided
+10 ['UCOL1002', 'B AD1000', 'ECON1113', 'MUNM1113'] 1.0 Freshman 0.5 Business-Undecided
+10 ['UCOL1002', 'B AD1000', 'ECON1113', 'ENGL1213'] 1.0 Freshman 0.3 Business-Undecided
+10 ['SOC1113', 'MATH1743', 'B AD1001', 'ECON1123'] 0.9 Freshman 0.3 Accounting
+10 ['SOC1113', 'MATH1643', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.7 Business-Undecided
+10 ['SOC1113', 'B AD1000', 'MATH1643', 'ECON1123'] 1.0 Freshman 0.5 Business-Undecided
+10 ['PSY1113', 'MATH1743', 'ECON1113', 'COMM1113'] 1.0 Freshman 0.5 Finance
+10 ['PSY1113', 'B AD1000', 'MATH1643', 'COMM1113'] 1.0 Freshman 0.5 Business-Undecided
+10 ['P SC1113', 'B AD1010', 'ACCT2113', 'ECON1123'] 0.6 Sophomore 0.3 Finance
+10 ['MATH1743', 'B AD1010', 'ACCT2113', 'HES2823'] 0.6 Sophomore 0.2 Finance
+10 ['MATH1743', 'B AD1000', 'MUNM1113', 'B AD1001'] 1.0 Freshman 0.4 Business-Undecided
+10 ['MATH1743', 'B AD1000', 'ACCT2113', 'B AD1001'] 0.7 Sophomore 0.3 Business-Undecided
+10 ['MATH1743', 'ACCT2113', 'B AD1001', 'MIS2113'] 0.9 Sophomore 0.4 Finance
+10 ['ENGL1113', 'UCOL1002', 'SOC1113', 'HIST1493'] 1.0 Freshman 0.4 Undecided-Degree Seeking
+10 ['ENGL1113', 'UCOL1002', 'PSY1113', 'MUNM1113'] 1.0 Freshman 0.2 Computer Science
+10 ['ENGL1113', 'UCOL1002', 'P SC1113', 'SOC1113'] 1.0 Freshman 0.3 Business-Undecided
+10 ['ENGL1113', 'UCOL1002', 'P SC1113', 'ENGR1411'] 1.0 Freshman 0.4 Computer Science
+10 ['ENGL1113', 'UCOL1002', 'MATH1743', 'ECON1123'] 0.9 Freshman 0.3 Finance
+10 ['ENGL1113', 'SOC1113', 'MATH1643', 'ECON1113'] 1.0 Freshman 0.4 Business-Undecided
+10 ['ENGL1113', 'PSY1113', 'MATH1643', 'COMM1113'] 1.0 Freshman 0.6 Business-Undecided
+10 ['ENGL1113', 'P SC1113', 'B AD1000', 'COMM1113'] 1.0 Freshman 0.5 Business-Undecided
+10 ['ENGL1113', 'MATH1643', 'COMM1113', 'HIST1493'] 1.0 Freshman 0.6 Business-Undecided
+10 ['ECON1113', 'COMM1113', 'ACCT2113', 'B AD1001'] 0.6 Sophomore 0.3 Business-Undecided
+10 ['COMM1113', 'ACCT2113', 'B AD1001', 'MIS2113'] 0.9 Sophomore 0.2 Academic Affairs-Exploratory
+10 ['B AD1010', 'MUNM1113', 'ECON2843', 'MIS2113'] 1.0 Sophomore 0.3 Accounting
+10 ['B AD1010', 'COMM1113', 'ECON2843', 'MIS2113'] 0.8 Sophomore 0.3 Academic Affairs-Exploratory
+10 ['B AD1000', 'ACCT2113', 'B AD1001', 'ECON1123'] 0.4 Freshman 0.3 Management Info Systems

@@ -1,0 +1,188 @@
+C:\Users\nickb\PACCS\Scripts\python.exe C:/Users/nickb/PycharmProjects/PACCS_Data/course_blocks/real_blocks.py
+0.52 315 ['B AD1010', 'ACCT2113', 'MIS2113'] 	 0.9 Sophomore 	 0.17 Finance
+0.52 285 ['B AD1010', 'ACCT2113', 'B AD2091'] 	 0.84 Sophomore 	 0.17 Finance
+0.42 266 ['B AD1010', 'ACCT2113', 'ECON2843'] 	 0.79 Sophomore 	 0.18 Business-Undecided
+0.45 246 ['B AD1010', 'MIS2113', 'B AD2091'] 	 0.91 Sophomore 	 0.18 Finance
+0.39 236 ['B AD1010', 'ECON2843', 'MIS2113'] 	 0.9 Sophomore 	 0.18 Business-Undecided
+0.4 219 ['ACCT2113', 'MIS2113', 'B AD2091'] 	 0.91 Sophomore 	 0.17 Finance
+0.39 212 ['B AD1010', 'ECON2843', 'B AD2091'] 	 0.84 Sophomore 	 0.19 Finance
+0.34 206 ['ACCT2113', 'ECON2843', 'MIS2113'] 	 0.88 Sophomore 	 0.17 Finance
+0.39 198 ['B AD1010', 'ACCT2113', 'MATH2123'] 	 0.79 Sophomore 	 0.2 Finance
+0.35 189 ['ACCT2113', 'ECON2843', 'B AD2091'] 	 0.83 Sophomore 	 0.18 Business-Undecided
+0.14 181 ['ENGL1113', 'UCOL1002', 'PSY1113'] 	 1.0 Freshman 	 0.14 Biology
+0.33 179 ['ECON2843', 'MIS2113', 'B AD2091'] 	 0.87 Sophomore 	 0.18 Business-Undecided
+0.41 171 ['MKT3013', 'L S3323', 'MGT3013'] 	 0.78 Junior 	 0.19 Marketing
+0.19 169 ['ENGL1113', 'UCOL1002', 'MATH1643'] 	 0.99 Freshman 	 0.3 Business-Undecided
+0.32 166 ['B AD1010', 'MIS2113', 'MATH2123'] 	 0.89 Sophomore 	 0.2 Finance
+0.18 162 ['B AD1000', 'MATH1643', 'ECON1113'] 	 0.94 Freshman 	 0.44 Business-Undecided
+0.18 156 ['MATH1743', 'B AD1000', 'ECON1113'] 	 0.95 Freshman 	 0.4 Business-Undecided
+0.21 154 ['ENGL1113', 'CHEM1315', 'ENGR1411'] 	 0.96 Freshman 	 0.27 Mechanical Engineering
+0.17 152 ['ENGL1113', 'UCOL1002', 'B AD1000'] 	 0.98 Freshman 	 0.39 Business-Undecided
+0.28 150 ['B AD1010', 'ACCT2113', 'PHIL1273'] 	 0.77 Sophomore 	 0.2 Business-Undecided
+0.29 149 ['B AD1010', 'B AD2091', 'MATH2123'] 	 0.81 Sophomore 	 0.21 Finance
+0.18 147 ['B AD1000', 'ECON1113', 'COMM1113'] 	 0.96 Freshman 	 0.44 Business-Undecided
+0.28 146 ['ACCT2113', 'MIS2113', 'MATH2123'] 	 0.88 Sophomore 	 0.18 Finance
+0.28 143 ['B AD1010', 'ECON2843', 'MATH2123'] 	 0.77 Sophomore 	 0.22 Finance
+0.16 142 ['UCOL1002', 'B AD1000', 'ECON1113'] 	 0.98 Freshman 	 0.42 Business-Undecided
+0.16 141 ['UCOL1002', 'B AD1000', 'MATH1643'] 	 0.99 Freshman 	 0.45 Business-Undecided
+0.33 135 ['MKT3013', 'L S3323', 'FIN3303'] 	 0.73 Junior 	 0.2 Finance
+0.15 133 ['ENGL1113', 'B AD1000', 'ECON1113'] 	 0.98 Freshman 	 0.44 Business-Undecided
+0.88 130 ['P E4521', 'P E4712', 'P E4533'] 	 0.99 Senior 	 0.98 Petroleum Engineering
+0.25 129 ['ACCT2113', 'ECON2843', 'MATH2123'] 	 0.77 Sophomore 	 0.21 Business-Undecided
+0.25 126 ['ACCT2113', 'B AD2091', 'MATH2123'] 	 0.79 Sophomore 	 0.22 Finance
+0.17 125 ['B AD1000', 'ECON1113', 'B AD1001'] 	 0.78 Freshman 	 0.38 Business-Undecided
+0.14 123 ['ENGL1113', 'B AD1000', 'MATH1643'] 	 0.98 Freshman 	 0.45 Business-Undecided
+0.23 123 ['B AD1010', 'B AD2091', 'PHIL1273'] 	 0.85 Sophomore 	 0.2 Accounting
+0.81 122 ['P E4521', 'P E4323', 'P E4712'] 	 1.0 Senior 	 0.91 Petroleum Engineering
+0.46 120 ['CHEM1315', 'ENGR1411', 'MATH1914'] 	 0.94 Freshman 	 0.23 Mechanical Engineering
+0.23 120 ['B AD1010', 'MIS2113', 'PHIL1273'] 	 0.88 Sophomore 	 0.2 Finance
+0.81 117 ['P E4521', 'P E4712', 'GPHY3423'] 	 1.0 Senior 	 0.91 Petroleum Engineering
+0.79 116 ['P E4521', 'P E4323', 'P E4533'] 	 1.0 Senior 	 0.98 Petroleum Engineering
+0.14 115 ['B AD1000', 'MATH1643', 'COMM1113'] 	 0.93 Freshman 	 0.48 Business-Undecided
+0.16 114 ['UCOL1002', 'B AD1000', 'B AD1001'] 	 0.96 Freshman 	 0.44 Business-Undecided
+0.22 114 ['MIS2113', 'B AD2091', 'MATH2123'] 	 0.82 Sophomore 	 0.21 Finance
+0.22 114 ['ECON2843', 'MIS2113', 'MATH2123'] 	 0.84 Sophomore 	 0.21 Marketing
+0.82 114 ['AME3112', 'AME3143', 'AME3153'] 	 0.65 Junior 	 0.97 Mechanical Engineering
+0.77 112 ['P E4521', 'P E4533', 'GPHY3423'] 	 1.0 Senior 	 0.98 Petroleum Engineering
+0.77 112 ['P E4521', 'P E4323', 'GPHY3423'] 	 1.0 Senior 	 0.9 Petroleum Engineering
+0.76 111 ['P E4323', 'P E4712', 'P E4533'] 	 1.0 Senior 	 0.98 Petroleum Engineering
+0.09 111 ['ENGL1113', 'UCOL1002', 'SOC1113'] 	 0.99 Freshman 	 0.21 Business-Undecided
+0.8 111 ['AME3112', 'AME3723', 'AME3153'] 	 0.63 Junior 	 0.98 Mechanical Engineering
+0.21 111 ['ACCT2113', 'MIS2113', 'PHIL1273'] 	 0.85 Sophomore 	 0.19 Accounting
+0.74 108 ['P E4712', 'P E4533', 'GPHY3423'] 	 1.0 Senior 	 0.98 Petroleum Engineering
+0.74 108 ['P E4323', 'P E4712', 'GPHY3423'] 	 1.0 Senior 	 0.89 Petroleum Engineering
+0.67 108 ['AME3112', 'AME3143', 'AME3723'] 	 0.65 Junior 	 0.98 Mechanical Engineering
+0.2 106 ['ACCT2113', 'B AD2091', 'PHIL1273'] 	 0.84 Sophomore 	 0.18 Accounting
+0.69 104 ['PHYS2524', 'AME2213', 'AME2113'] 	 0.73 Sophomore 	 0.55 Mechanical Engineering
+0.13 104 ['ENGL1113', 'B AD1000', 'COMM1113'] 	 0.96 Freshman 	 0.53 Business-Undecided
+0.12 103 ['UCOL1002', 'MATH1643', 'ECON1113'] 	 1.0 Freshman 	 0.5 Business-Undecided
+0.12 103 ['UCOL1002', 'B AD1000', 'COMM1113'] 	 0.99 Freshman 	 0.47 Business-Undecided
+0.26 103 ['CHEM1315', 'ENGR1411', 'MATH1823'] 	 0.99 Freshman 	 0.26 Mechanical Engineering
+0.74 103 ['AME3143', 'AME3723', 'AME3153'] 	 0.64 Junior 	 0.97 Mechanical Engineering
+0.7 102 ['P E4323', 'P E4533', 'GPHY3423'] 	 1.0 Senior 	 0.98 Petroleum Engineering
+0.14 102 ['B AD1010', 'ACCT2113', 'B AD1001'] 	 0.64 Sophomore 	 0.23 Business-Undecided
+0.12 101 ['MATH1743', 'B AD1000', 'COMM1113'] 	 0.94 Freshman 	 0.42 Business-Undecided
+0.19 100 ['ECON2843', 'B AD2091', 'MATH2123'] 	 0.77 Sophomore 	 0.24 Finance
+0.18 98 ['B AD1010', 'ECON2843', 'PHIL1273'] 	 0.77 Sophomore 	 0.22 Business-Undecided
+0.24 97 ['MKT3013', 'MGT3013', 'FIN3303'] 	 0.7 Junior 	 0.15 Finance
+0.12 96 ['MATH1643', 'ECON1113', 'COMM1113'] 	 0.93 Freshman 	 0.49 Business-Undecided
+0.86 96 ['CH E3473', 'CH E3123', 'CH E3723'] 	 0.58 Junior 	 0.75 Chemical Engineering-Standard
+0.13 95 ['MATH1743', 'B AD1000', 'B AD1001'] 	 0.78 Freshman 	 0.4 Business-Undecided
+0.13 92 ['B AD1000', 'COMM1113', 'B AD1001'] 	 0.75 Freshman 	 0.45 Business-Undecided
+0.1 91 ['UCOL1002', 'PSY1113', 'BIOL1114'] 	 0.98 Freshman 	 0.43 Pre-Nursing Studies
+0.11 91 ['MATH1743', 'ECON1113', 'COMM1113'] 	 0.96 Freshman 	 0.42 Business-Undecided
+0.12 91 ['B AD1000', 'MATH1643', 'B AD1001'] 	 0.79 Freshman 	 0.43 Business-Undecided
+0.12 90 ['MATH1743', 'B AD1010', 'ACCT2113'] 	 0.59 Sophomore 	 0.18 Finance
+0.1 90 ['ENGL1113', 'MATH1643', 'ECON1113'] 	 1.0 Freshman 	 0.46 Business-Undecided
+0.17 90 ['ACCT2113', 'ECON2843', 'PHIL1273'] 	 0.77 Sophomore 	 0.24 Business-Undecided
+0.1 89 ['ENGL1113', 'UCOL1002', 'ECON1113'] 	 0.99 Freshman 	 0.39 Business-Undecided
+0.54 89 ['AME3363', 'PHYS3223', 'AME4163'] 	 1.0 Senior 	 0.98 Mechanical Engineering
+0.16 87 ['MIS2113', 'B AD2091', 'PHIL1273'] 	 0.85 Sophomore 	 0.22 Accounting
+0.63 86 ['P E4521', 'P E4533', 'P E3222'] 	 0.99 Senior 	 0.98 Petroleum Engineering
+0.15 86 ['CHEM1315', 'ENGR1411', 'MATH1523'] 	 0.93 Freshman 	 0.22 Mechanical Engineering
+0.06 85 ['ENGL1113', 'UCOL1002', 'P SC1113'] 	 1.0 Freshman 	 0.12 Undecided-Degree Seeking
+0.09 85 ['ENGL1113', 'PSY1113', 'BIOL1114'] 	 0.98 Freshman 	 0.36 Pre-Nursing Studies
+0.09 84 ['UCOL1002', 'MATH1743', 'B AD1000'] 	 0.96 Freshman 	 0.42 Business-Undecided
+0.11 84 ['ENGL1113', 'UCOL1002', 'B AD1001'] 	 0.96 Freshman 	 0.49 Business-Undecided
+0.61 83 ['P E4521', 'P E4712', 'P E3222'] 	 0.99 Senior 	 0.96 Petroleum Engineering
+0.09 83 ['ENGL1113', 'MATH1743', 'B AD1000'] 	 0.98 Freshman 	 0.47 Business-Undecided
+0.11 82 ['MATH1643', 'ECON1113', 'B AD1001'] 	 0.78 Freshman 	 0.4 Business-Undecided
+0.66 82 ['CHEM3053', 'CH E2002', 'CH E2033'] 	 0.61 Sophomore 	 0.65 Chemical Engineering-Standard
+0.77 82 ['C S3823', 'C S3113', 'C S3203'] 	 0.61 Senior 	 0.98 Computer Science
+0.6 81 ['P E4712', 'P E4533', 'P E3222'] 	 0.99 Senior 	 0.98 Petroleum Engineering
+0.15 81 ['ENGL1113', 'UCOL1002', 'MATH1503'] 	 1.0 Freshman 	 0.15 Pre-Nursing Studies
+0.09 79 ['ENGL1113', 'PSY1113', 'MATH1643'] 	 1.0 Freshman 	 0.24 Psychology
+0.19 77 ['L S3323', 'MGT3013', 'FIN3303'] 	 0.69 Junior 	 0.18 Energy Management
+0.08 77 ['ENGL1113', 'UCOL1002', 'MATH1743'] 	 0.97 Freshman 	 0.22 Business-Undecided
+0.08 77 ['ENGL1113', 'UCOL1002', 'BIOL1114'] 	 1.0 Freshman 	 0.27 Pre-Nursing Studies
+0.1 76 ['UCOL1002', 'ECON1113', 'B AD1001'] 	 0.97 Freshman 	 0.43 Business-Undecided
+0.21 76 ['PSY1113', 'BIOL1114', 'AHS1400'] 	 1.0 Freshman 	 0.41 Pre-Nursing Studies
+0.09 75 ['UCOL1002', 'PSY1113', 'MATH1643'] 	 1.0 Freshman 	 0.24 Biology
+0.55 75 ['P E4521', 'P E4323', 'P E3222'] 	 1.0 Senior 	 0.96 Petroleum Engineering
+0.55 75 ['P E4521', 'GPHY3423', 'P E3222'] 	 1.0 Senior 	 0.96 Petroleum Engineering
+0.1 75 ['ENGL1113', 'B AD1000', 'B AD1001'] 	 0.95 Freshman 	 0.45 Business-Undecided
+0.19 75 ['B AD1010', 'B AD2091', 'B C2813'] 	 0.75 Sophomore 	 0.28 Accounting
+0.08 74 ['UCOL1002', 'SOC1113', 'B AD1000'] 	 0.99 Freshman 	 0.45 Business-Undecided
+0.54 74 ['P E4533', 'GPHY3423', 'P E3222'] 	 1.0 Senior 	 0.97 Petroleum Engineering
+0.54 74 ['P E4323', 'GPHY3423', 'P E3222'] 	 0.99 Senior 	 0.96 Petroleum Engineering
+0.14 74 ['ECON2843', 'B AD2091', 'PHIL1273'] 	 0.8 Sophomore 	 0.2 Accounting
+0.19 74 ['B AD1010', 'MIS2113', 'B C2813'] 	 0.86 Sophomore 	 0.18 Accounting
+0.12 74 ['B AD1010', 'ACCT2113', 'ECON1123'] 	 0.68 Sophomore 	 0.19 Finance
+0.59 73 ['PHYS2524', 'CH E2002', 'CH E2033'] 	 0.66 Sophomore 	 0.58 Chemical Engineering-Standard
+0.54 73 ['P E4323', 'P E4712', 'P E3222'] 	 1.0 Senior 	 0.96 Petroleum Engineering
+0.54 73 ['P E4323', 'P E4533', 'P E3222'] 	 1.0 Senior 	 0.97 Petroleum Engineering
+0.1 73 ['ECON1113', 'COMM1113', 'B AD1001'] 	 0.73 Freshman 	 0.4 Business-Undecided
+0.1 72 ['MATH1743', 'ECON1113', 'B AD1001'] 	 0.76 Freshman 	 0.35 Business-Undecided
+0.14 72 ['B AD1010', 'PHIL1273', 'MATH2123'] 	 0.75 Sophomore 	 0.26 Finance
+0.18 72 ['B AD1010', 'ACCT2113', 'B C2813'] 	 0.85 Sophomore 	 0.22 Marketing
+0.1 71 ['UCOL1002', 'MATH1643', 'B AD1001'] 	 0.99 Freshman 	 0.48 Business-Undecided
+0.13 71 ['PSY1113', 'BIOL1114', 'MATH1503'] 	 0.97 Freshman 	 0.56 Pre-Nursing Studies
+0.52 71 ['P E4712', 'GPHY3423', 'P E3222'] 	 1.0 Senior 	 0.96 Petroleum Engineering
+0.09 71 ['ENGL1113', 'MATH1643', 'COMM1113'] 	 0.97 Freshman 	 0.51 Business-Undecided
+0.18 71 ['ENGL1113', 'CHEM1315', 'MATH1823'] 	 1.0 Freshman 	 0.2 Mechanical Engineering
+0.13 71 ['ECON2843', 'MIS2113', 'PHIL1273'] 	 0.87 Sophomore 	 0.23 Accounting
+0.08 70 ['UCOL1002', 'SOC1113', 'MATH1643'] 	 1.0 Freshman 	 0.39 Business-Undecided
+0.19 70 ['UCOL1002', 'PSY1113', 'AHS1400'] 	 0.99 Freshman 	 0.31 Pre-Nursing Studies
+0.12 70 ['ENGL1113', 'CHEM1315', 'MATH1523'] 	 0.99 Freshman 	 0.17 Mechanical Engineering
+0.08 69 ['UCOL1002', 'MATH1743', 'ECON1113'] 	 0.97 Freshman 	 0.43 Business-Undecided
+0.11 69 ['ACCT2113', 'B AD1001', 'ECON2843'] 	 0.64 Sophomore 	 0.2 Finance
+0.17 68 ['MIS2113', 'B AD2091', 'B C2813'] 	 0.63 Sophomore 	 0.19 Accounting
+0.08 68 ['ENGL1113', 'MATH1743', 'ECON1113'] 	 1.0 Freshman 	 0.49 Business-Undecided
+0.08 67 ['UCOL1002', 'MATH1643', 'COMM1113'] 	 0.99 Freshman 	 0.51 Business-Undecided
+0.09 67 ['UCOL1002', 'CHEM1315', 'ENGR1411'] 	 0.93 Freshman 	 0.21 Mechanical Engineering
+0.08 67 ['ENGL1113', 'UCOL1002', 'COMM1113'] 	 0.99 Freshman 	 0.58 Business-Undecided
+0.08 67 ['ENGL1113', 'ECON1113', 'COMM1113'] 	 1.0 Freshman 	 0.46 Business-Undecided
+0.08 66 ['UCOL1002', 'ECON1113', 'COMM1113'] 	 0.98 Freshman 	 0.5 Business-Undecided
+0.1 65 ['MATH1743', 'B AD1000', 'ECON1123'] 	 0.88 Freshman 	 0.37 Business-Undecided
+0.1 64 ['MATH1743', 'B AD1001', 'ECON1123'] 	 0.59 Freshman 	 0.27 Business-Undecided
+0.12 64 ['ENGL1113', 'BIOL1114', 'MATH1503'] 	 1.0 Freshman 	 0.48 Pre-Nursing Studies
+0.1 64 ['B AD1000', 'B AD1001', 'ECON1123'] 	 0.67 Freshman 	 0.38 Business-Undecided
+0.22 63 ['MKT3013', 'L S3323', 'ACCT3113'] 	 0.76 Junior 	 0.49 Accounting
+0.08 62 ['UCOL1002', 'COMM1113', 'B AD1001'] 	 0.98 Freshman 	 0.48 Business-Undecided
+0.08 62 ['ENGL1113', 'UCOL1002', 'ENGR1411'] 	 1.0 Freshman 	 0.19 Computer Science
+0.17 62 ['ENGL1113', 'BIOL1114', 'AHS1400'] 	 0.98 Freshman 	 0.32 Pre-Nursing Studies
+0.44 61 ['PHYS2524', 'CHEM3053', 'CH E2002'] 	 0.66 Sophomore 	 0.59 Chemical Engineering-Standard
+0.12 61 ['ACCT2113', 'PHIL1273', 'MATH2123'] 	 0.79 Sophomore 	 0.21 Business-Undecided
+0.12 61 ['ACCT2113', 'B AD1001', 'MATH2123'] 	 0.61 Sophomore 	 0.21 Business-Undecided
+0.17 60 ['UCOL1002', 'BIOL1114', 'AHS1400'] 	 1.0 Freshman 	 0.4 Pre-Nursing Studies
+0.15 60 ['ACCT2113', 'MIS2113', 'B C2813'] 	 0.78 Sophomore 	 0.18 Marketing
+0.48 59 ['PHYS2524', 'CHEM3053', 'CH E2033'] 	 0.68 Sophomore 	 0.59 Chemical Engineering-Standard
+0.07 59 ['ENGL1113', 'UCOL1002', 'HIST1493'] 	 0.98 Freshman 	 0.22 Undecided-Degree Seeking
+0.09 59 ['ACCT2113', 'B AD1001', 'ECON1123'] 	 0.53 Sophomore 	 0.2 Accounting
+0.2 58 ['L S3323', 'FIN3303', 'ACCT3113'] 	 0.76 Junior 	 0.43 Accounting
+0.2 58 ['CHEM3053', 'PHYS2414', 'PHYS1311'] 	 0.66 Sophomore 	 0.29 Biology
+0.08 58 ['CHEM1315', 'SOC1113', 'ENGR1411'] 	 0.93 Freshman 	 0.21 Biomedical Engineering
+0.2 57 ['MKT3013', 'FIN3303', 'ACCT3113'] 	 0.74 Junior 	 0.39 Accounting
+0.11 57 ['ACCT2113', 'B AD1001', 'PHIL1273'] 	 0.53 Sophomore 	 0.19 Business-Undecided
+0.1 57 ['ACCT2113', 'B AD1001', 'B AD2091'] 	 0.74 Sophomore 	 0.21 Finance
+0.08 56 ['MATH1743', 'ACCT2113', 'B AD1001'] 	 0.57 Sophomore 	 0.21 Finance
+0.1 56 ['ENGL1113', 'PSY1113', 'MATH1503'] 	 1.0 Freshman 	 0.36 Pre-Nursing Studies
+0.08 56 ['CHEM1315', 'ENGR1411', 'ENGL1213'] 	 0.91 Freshman 	 0.27 Biomedical Engineering
+0.15 55 ['ENGL1113', 'UCOL1002', 'AHS1400'] 	 1.0 Freshman 	 0.22 Pre-Nursing Studies
+0.21 55 ['ENGL1113', 'ENGR1411', 'MATH1914'] 	 0.98 Freshman 	 0.24 Mechanical Engineering
+0.06 54 ['SOC1113', 'B AD1000', 'MATH1643'] 	 1.0 Freshman 	 0.56 Business-Undecided
+0.1 54 ['MATH1743', 'B AD1010', 'B AD2091'] 	 0.63 Sophomore 	 0.17 Business-Undecided
+0.24 54 ['CHEM1315', 'ENGR1411', 'MATH2924'] 	 0.76 Freshman 	 0.22 Aerospace Engineering
+0.11 54 ['B AD2091', 'PHIL1273', 'MATH2123'] 	 0.78 Sophomore 	 0.2 Finance
+0.21 54 ['B AD2091', 'B C2813', 'ACCT2123'] 	 0.46 Sophomore 	 0.22 Accounting
+0.09 53 ['ENGL1113', 'ENGR1411', 'MATH1523'] 	 0.98 Freshman 	 0.21 Mechanical Engineering
+0.08 53 ['B AD1010', 'B AD1001', 'ECON2843'] 	 0.6 Sophomore 	 0.28 Finance
+0.08 53 ['B AD1000', 'MATH1643', 'ECON1123'] 	 0.85 Freshman 	 0.36 Business-Undecided
+0.09 53 ['ACCT2113', 'B AD1001', 'MIS2113'] 	 0.75 Sophomore 	 0.21 Finance
+0.06 52 ['ENGL1113', 'SOC1113', 'MATH1643'] 	 1.0 Freshman 	 0.31 Business-Undecided
+0.09 51 ['UCOL1002', 'PSY1113', 'MATH1503'] 	 1.0 Freshman 	 0.35 Pre-Nursing Studies
+0.08 51 ['MATH1743', 'B AD1010', 'ECON1123'] 	 0.53 Freshman 	 0.2 Business-Undecided
+0.07 51 ['MATH1743', 'B AD1010', 'B AD1001'] 	 0.61 Freshman 	 0.25 Finance
+0.14 51 ['ENGL1113', 'PSY1113', 'AHS1400'] 	 1.0 Freshman 	 0.33 Pre-Nursing Studies
+0.13 51 ['B AD1010', 'MATH2123', 'B C2813'] 	 0.82 Sophomore 	 0.24 Finance
+0.33 51 ['ACCT3113', 'FIN3503', 'FIN3453'] 	 0.76 Senior 	 0.75 Finance
+0.06 50 ['UCOL1002', 'BIOL1114', 'MATH1643'] 	 1.0 Freshman 	 0.18 Psychology
+0.09 50 ['UCOL1002', 'BIOL1114', 'MATH1503'] 	 0.98 Freshman 	 0.46 Pre-Nursing Studies
+0.08 50 ['MATH1743', 'ACCT2113', 'MIS2113'] 	 0.78 Sophomore 	 0.2 Finance
+0.09 50 ['MATH1743', 'ACCT2113', 'B AD2091'] 	 0.64 Sophomore 	 0.16 Business-Undecided
+0.07 50 ['MATH1643', 'COMM1113', 'B AD1001'] 	 0.74 Freshman 	 0.42 Business-Undecided
+0.09 50 ['ENGL1113', 'UCOL1002', 'MATH1523'] 	 1.0 Freshman 	 0.14 Biology
+0.06 50 ['ENGL1113', 'BIOL1114', 'MATH1643'] 	 1.0 Freshman 	 0.22 Biology
+0.1 50 ['B AD1010', 'B AD1001', 'MATH2123'] 	 0.54 Sophomore 	 0.22 Business-Undecided
+
+Process finished with exit code 0
